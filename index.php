@@ -34,21 +34,7 @@ $section = array_rand($var);
 <meta property="og:type" content="video.other">
 
 <script>
-
-   $(function () {
-
-       $.post('https://graph.facebook.com',
-               {
-                   id: 'http://m-l-a-b-s.com',
-                   scrape: true,
-                   access_token: '<coloque_seu_token_do_aplicativo_facebook_aqui>'
-               },
-               function (response) {
-                   window.location='https://www.mlabs.com.br/';
-               }
-       );
-
-
-   });
-
+  setTimeout(function(){
+    window.location='https://www.mlabs.com.br/';
+  },100);
 </script>
