@@ -21,3 +21,5 @@ Dicas:
 - Quanto alterar alguma imagem, alterar também o nome dela.
 
 - Coloque no ar com antecedencia e faça alguns testes para que o facebook entenda o mecanismo e pegue suas imagens.
+
+- Por segurança, recomendamos criar um novo aplicativo no Facebook somente para esta dinâmica.
