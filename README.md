@@ -13,7 +13,7 @@
 6 - Atualize o arquivo script.sh, colocando a sua url.
 
 7 - Adicione no seu CRON o codigo abaixo para executar o script de atualização da API do Facebook.
-   7.1 - * * * * * bash <caminho_do_seu_arquivo_script.sh_no_seu_servidor>
+   - 7.1 - * * * * * bash <caminho_do_seu_arquivo_script.sh_no_seu_servidor>
 
 8 - Aproveite.
 
